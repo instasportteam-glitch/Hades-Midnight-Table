@@ -42,6 +42,9 @@ dependencies:
   dio: ^5.7.0
   retrofit: ^4.4.1
 
+  # iPhone Duo: угол петли, положение сгиба, области сгиба и камеры
+  foldable: ^1.0.5
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
